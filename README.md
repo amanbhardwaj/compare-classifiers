@@ -1,6 +1,9 @@
 # compare-classifiers
 Compare the performance of different classification models (Logistic Regression, Decision Trees, K-Nearest Neighbor, and Support Vector Machines) 
 
+### Link to Jupyter Notebook
+https://github.com/amanbhardwaj/compare-classifiers/blob/main/prompt_III.ipynb
+
 ### Business Objective
 <mark>The business objective is to predict the effectiveness of direct phone campaign by a bank for the subscription of term deposit by its customers based on the data from bank's multiple previous direct product marketing campaigns over the phone.</mark> 
 
