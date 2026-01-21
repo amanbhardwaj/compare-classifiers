@@ -11,6 +11,16 @@ The direct phone campaign data contains campaign features such as <b>phone conta
 
 In order to achieve the business objective, we are tasked to compare the performance of different classification models (Logistic Regression, Decision Trees, K-Nearest Neighbors, and Support Vector Machines) when used with the direct phone marketing campaign data and pick the best performing model based on highest accuracy and precision.
 
+### Data Visualizations:
+<img alt="image" src="images/01_Proportional_Distribution_of_Subscription_Status.png" />
+<img alt="image" src="images/02_Subscription_Status_by_Call_Duration.png" />
+<img alt="image" src="images/03_Subscription_Status_by_Number_of_Contacts_during_Campaign.png" />
+<img alt="image" src="images/04_Subscription_Status_by_Contact_Communication_Type.png" />
+<img alt="image" src="images/05_Subscription_Status_by_Month.png" />
+<img alt="image" src="images/06_Subscription_Status_by_Day_of_the_Week.png" />
+<img alt="image" src="images/07_Subscription_Status_by_Outcome_of_the_Previous_Campaign.png" />
+
+
 ### Baseline Model
 ##### Majority Class (Zero Rule / ZeroR): This strategy always predicts the most frequent label in the training set.
 
